@@ -1,0 +1,11 @@
+C:\Users\a_sas\source\repos\Карантин\bin\Debug\Lab_2.exe
+C:\Users\a_sas\source\repos\Карантин\bin\Debug\Lab_2.pdb
+C:\Users\a_sas\source\repos\Карантин\bin\Debug\System.dll
+C:\Users\a_sas\source\repos\Карантин\bin\Debug\System.Drawing.dll
+C:\Users\a_sas\source\repos\Карантин\bin\Debug\System.Windows.Forms.dll
+C:\Users\a_sas\source\repos\Карантин\bin\Debug\System.Xml.dll
+C:\Users\a_sas\source\repos\Карантин\obj\Debug\2.csprojAssemblyReference.cache
+C:\Users\a_sas\source\repos\Карантин\obj\Debug\2.csproj.CoreCompileInputs.cache
+C:\Users\a_sas\source\repos\Карантин\obj\Debug\2.csproj.CopyComplete
+C:\Users\a_sas\source\repos\Карантин\obj\Debug\Lab_2.exe
+C:\Users\a_sas\source\repos\Карантин\obj\Debug\Lab_2.pdb
