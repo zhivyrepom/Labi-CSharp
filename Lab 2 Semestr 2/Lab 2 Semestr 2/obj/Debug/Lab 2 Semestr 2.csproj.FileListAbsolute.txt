@@ -1,0 +1,10 @@
+C:\Users\a_sas\source\repos\Lab 2 Semestr 2\Lab 2 Semestr 2\bin\Debug\Lab 2 Semestr 2.exe.config
+C:\Users\a_sas\source\repos\Lab 2 Semestr 2\Lab 2 Semestr 2\bin\Debug\Lab 2 Semestr 2.exe
+C:\Users\a_sas\source\repos\Lab 2 Semestr 2\Lab 2 Semestr 2\bin\Debug\Lab 2 Semestr 2.pdb
+C:\Users\a_sas\source\repos\Lab 2 Semestr 2\Lab 2 Semestr 2\obj\Debug\Lab 2 Semestr 2.csprojAssemblyReference.cache
+C:\Users\a_sas\source\repos\Lab 2 Semestr 2\Lab 2 Semestr 2\obj\Debug\Lab_2_Semestr_2.Form1.resources
+C:\Users\a_sas\source\repos\Lab 2 Semestr 2\Lab 2 Semestr 2\obj\Debug\Lab_2_Semestr_2.Properties.Resources.resources
+C:\Users\a_sas\source\repos\Lab 2 Semestr 2\Lab 2 Semestr 2\obj\Debug\Lab 2 Semestr 2.csproj.GenerateResource.cache
+C:\Users\a_sas\source\repos\Lab 2 Semestr 2\Lab 2 Semestr 2\obj\Debug\Lab 2 Semestr 2.csproj.CoreCompileInputs.cache
+C:\Users\a_sas\source\repos\Lab 2 Semestr 2\Lab 2 Semestr 2\obj\Debug\Lab 2 Semestr 2.exe
+C:\Users\a_sas\source\repos\Lab 2 Semestr 2\Lab 2 Semestr 2\obj\Debug\Lab 2 Semestr 2.pdb
